@@ -1,0 +1,12 @@
+===== Changelog =====
+Made by JPM-Boy.
+
+0.1 Update:
+"Quartz Edition"
+> First Version Ever.
+> Added Click.
+> Added Click Upgrade 1.
+> Added Click Upgrade 2.
+> Added Production Upgrade 1.
+> Added Production Upgrade 2.
+> Added Quartz Prestige.
