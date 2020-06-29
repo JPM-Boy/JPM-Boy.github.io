@@ -1,7 +1,7 @@
 {
 "companyName": "JPM-Boy",
 "productName": "SocieCiv: Rock",
-"productVersion": "0.1",
+"productVersion": "0.1.5",
 "dataUrl": "web version socieciv2.data.unityweb",
 "wasmCodeUrl": "web version socieciv2.wasm.code.unityweb",
 "wasmFrameworkUrl": "web version socieciv2.wasm.framework.unityweb",
