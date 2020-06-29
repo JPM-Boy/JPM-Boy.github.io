@@ -10,3 +10,12 @@ Made by JPM-Boy.
 > Added Production Upgrade 1.
 > Added Production Upgrade 2.
 > Added Quartz Prestige.
+
+0.1.5 Update:
+"Reset Edition"
+> Added Reset.
+> New Tab.
+> Added Click Upgrade 3.
+> Added Production Upgrade 3.
+> New names for upgrades.
+> Added Quartz Prestige.
